@@ -7,23 +7,29 @@
 
 <div align="center">
   <a href="https://github.com/victor-henri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-henri&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-henri&layout=compact&langs_count=7&theme=vue"/>
+<table align="center">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-henri&show_icons=true&theme=vue&include_all_commits=true&count_private=true">
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-henri&layout=compact&langs_count=7&theme=vue">
+    </td>
+  </row>
+</table> 
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
   <img align="center" alt="Victor-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  
   <img align="center" alt="Victor-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-
   <img align="center" alt="Victor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
   <img align="center" alt="Victor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
   
-  ##
+##
  
 <div> 
 
