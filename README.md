@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor Henrique! 👋
 
-- 🌱 Atualmente aprendendo C# e Python.
+- 🌱 Atualmente aprendendo Python(Principal) e Rust(Secundária).
 - 📜 Cursando Computação em Nuvem na Faculdade Descomplica.
 - 😄 Pronomes: Ele/Dele
 
