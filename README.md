@@ -11,10 +11,10 @@
   <row>
     <td>
      <!-- Card -->
-      <img height="180em" src="https://github-readme-victor-henri.vercel.app/api?username=victor-henri&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true">
+      <img height="180em" src="https://github-readme-victor-henri.vercel.app/api?username=victor-henri&show_icons=true&theme=vue-dark&include_all_commits=true&exclude_repo=github-readme,github-readme-stats&count_private=true">
     </td>
     <td>
-      <img height="180em" src="https://github-readme-victor-henri.vercel.app/api/top-langs/?username=victor-henri&layout=compact&theme=vue-dark">
+      <img height="180em" src="https://github-readme-victor-henri.vercel.app/api/top-langs/?username=victor-henri&layout=compact&theme=vue-dark&exclude_repo=github-readme,github-readme-stats">
     </td>
   </row>
 </table> 
