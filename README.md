@@ -1,6 +1,11 @@
 ## Olá! Eu sou o Victor Henrique! 👋
 
-- 🌱 Conhecimentos em Python e aprendendo C (CS50).
+- 🌱 Conhecimentos:
+  - Linux
+  - SQL
+  - C
+  - Python
+  - HTML e CSS
 - 📜 Cursando Computação em Nuvem na Faculdade Descomplica.
 - 😄 Pronomes: Ele/Dele
 
