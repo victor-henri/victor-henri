@@ -5,10 +5,7 @@
   - SQL
   - C
   - Python
-  - HTML e CSS (SASS & BEM)
-  - JavaScript
 - 📜 Cursando Computação em Nuvem na Faculdade Descomplica.
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/victor-henri">
